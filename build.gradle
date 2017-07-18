@@ -25,6 +25,7 @@ uploadArchives{
     }
 }
 
+
 sourceSets {
     main {
         java {
